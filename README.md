@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Budapest, Hungary.
+#### I'm a Full-Stack Developer working in Hungary at SAP.
 
 ## ⚡ Talk to me about
 - Front-end development using **Vue.JS, ReactJS**
